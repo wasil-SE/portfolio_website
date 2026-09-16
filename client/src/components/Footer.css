@@ -1,0 +1,30 @@
+.footer {
+  padding-block: 2.5rem;
+  border-top: 1px solid var(--line);
+}
+
+.footer-inner {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+}
+
+.footer-mark {
+  font-family: var(--font-mono);
+  color: var(--text-muted);
+  text-decoration: none;
+}
+
+.footer-meta {
+  font-size: var(--step--1);
+  color: var(--text-faint);
+}
+
+.footer-email {
+  font-family: var(--font-mono);
+  font-size: var(--step--1);
+  color: var(--accent-strong);
+  text-decoration: none;
+}
