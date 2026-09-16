@@ -17,6 +17,8 @@
 
 .page-loader-content {
   width: min(28rem, calc(100% - 2 * var(--gutter)));
+  padding-inline: var(--gutter);
+  text-align: center;
   font-family: var(--font-mono);
   font-size: var(--step--1);
 }
