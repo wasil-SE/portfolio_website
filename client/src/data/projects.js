@@ -7,8 +7,8 @@ const projects = [
     description:
       "A pixel-close rebuild of Netflix's browsing experience — hero carousel, category rows, and a modal preview on hover.",
     tech: ["HTML", "CSS", "JavaScript"],
-    github: "https://github.com/wasil-SE/Netflix_Clone",
-    demo: "https://wasil-se.github.io/Netflix_Clone/",
+    github: "https://github.com/wasil-SE/Project_Netflex_Clone",
+    demo: "https://wasil-se.github.io/Project_Netflex_Clone/",
   },
   {
     id: "tic-tac-toe",
@@ -27,8 +27,8 @@ const projects = [
     description:
       "A front-end recreation of Amazon's product grid and cart flow, focused on layout density and interaction detail at scale.",
     tech: ["HTML", "CSS", "JavaScript"],
-    github: "https://github.com/wasil-SE/Amazon_Clone",
-    demo: "https://wasil-se.github.io/Amazon_Clone/",
+    github: "https://github.com/wasil-SE/Aemaazon_Clone",
+    demo: "https://wasil-se.github.io/Aemaazon_Clone/",
   },
   {
     id: "restaurant-website",
